@@ -1,0 +1,21 @@
+.btn{
+    margin-top: 160px;
+}
+
+/* table{
+    border-collapse: collapse;
+    border-spacing: 0;
+    width: 100%;
+    border: 1px solid #ddd;
+} */
+tr{
+    margin: 30px;
+}
+
+
+th,td {
+  text-align: center;
+  padding: 18px;
+  border: 2px solid black;
+  margin: 20px;
+}

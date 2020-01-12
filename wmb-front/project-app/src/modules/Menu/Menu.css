@@ -1,0 +1,67 @@
+.cardcontain{
+    margin-left: 30px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.card{
+    width: 300px;
+    height: 270px;
+    /* border: solid 2px rgb(14, 233, 167); */
+    margin: 10px;
+    padding: 0px;
+    box-shadow: 50px 15px;
+    font-size: 15px;
+}
+
+.card2{
+    width: 300px;
+    height: 300px;
+    margin: 0px;
+    box-shadow: 50px 15px;
+    font-size: 15px;
+}
+
+
+
+
+.card1{
+    width: 150px;
+    height: 120px;
+    /* border: solid 2px black; */
+    margin: 20px;
+    padding: 5px;
+    box-shadow: 50px 15px;
+}
+
+.pesan {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.menus {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 120px;
+    margin-left: 80px;
+}
+
+.pic {
+    width: 300px;
+    height: 160px;
+    object-fit: cover;
+}
+
+.inputan {
+    width: 80px;
+    height: 20px;
+    position: relative;
+    top: -20px;
+    
+}
+
+.addMenu {
+    margin-bottom: -200px;
+    width: 200px;
+    color: white;
+}

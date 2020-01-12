@@ -1,0 +1,19 @@
+.landing {
+    margin-top: 120px;
+    padding-right: 10px;
+    width: 1700px;
+    height: 400px;
+    opacity: 0.9;
+    color: darkslategray;
+    background: white;
+    /* background-image: url(../../uploads/backs.jpg); */
+    position: fixed;
+
+}
+
+.rat {
+   position: relative;
+   left: -660px;
+   top: -400px;
+}
+

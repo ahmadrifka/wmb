@@ -1,0 +1,32 @@
+App
+style
+
+layouts
+    -Header
+    -SideBar
+    -Content
+
+Modules
+    -Login
+        Login
+        -service
+        -style
+    -Customers
+        Customers
+        -service
+        -style
+    -Meja
+        Meja
+        -service
+        -style
+    -Order
+        Order
+        -service
+        -style
+    -Transaksi
+        Transaksi
+        -service
+        -style
+Components
+    -Breadcrumb
+    -Paging
